@@ -1,0 +1,177 @@
+[
+  {
+    "question": "What are the main risks to UK financial stability in 2025?",
+    "ground_truth": "Risks include geopolitical tensions, fragmentation of trade and financial markets, and global household and corporate debt vulnerabilities. The FPC notes risks have increased during 2025.",
+    "source": "financial-stability-report-december-2025.pdf",
+    "page": 7,
+    "answerable": true
+  },
+  {
+    "question": "What does the FPC say about mortgage affordability?",
+    "ground_truth": "The FPC's LTI flow limit restricts lenders from issuing more than 15% of new mortgages with LTI ratios at 4.5 or higher. The FPC judges that in aggregate, households remain resilient.",
+    "source": "financial-stability-report-december-2023.pdf",
+    "page": 59,
+    "answerable": true
+  },
+  {
+    "question": "What percentage of mortgages are on fixed rates?",
+    "ground_truth": "Around two thirds of the stock of mortgages are held on a fixed-rate basis.",
+    "source": "monetary-policy-report-february-2025.pdf",
+    "page": 44,
+    "answerable": true
+  },
+  {
+    "question": "What is the LTI flow limit for mortgages?",
+    "ground_truth": "Lenders cannot issue more than 15% of new mortgages with loan-to-income ratios of 4.5 or higher.",
+    "source": "financial-stability-report-december-2023.pdf",
+    "page": 59,
+    "answerable": true
+  },
+  {
+    "question": "What did the FPC say about household resilience in 2025?",
+    "ground_truth": "The FPC judges that in aggregate, households remain resilient.",
+    "source": "financial-stability-report-december-2025.pdf",
+    "page": 64,
+    "answerable": true
+  },
+  {
+    "question": "What is the Bank of England's view on climate-related financial risks?",
+    "ground_truth": "The Bank of England published a climate-related financial disclosure in 2025 addressing climate risks to financial stability.",
+    "source": "the-bank-of-englands-climate-related-financial-disclosure-2025.pdf",
+    "page": 1,
+    "answerable": true
+  },
+  {
+    "question": "What were mortgage arrears expected to reach?",
+    "ground_truth": "Mortgage arrears are likely to remain well below their early 1990s and post-GFC peaks of 4.0% and 2.4% respectively.",
+    "source": "financial-stability-report-june-2024.pdf",
+    "page": 31,
+    "answerable": true
+  },
+  {
+    "question": "What is the FPC's view on global public sector debt?",
+    "ground_truth": "Global public sector debt vulnerabilities are identified as a key source of risk to UK financial stability.",
+    "source": "financial-stability-report-july-2025.pdf",
+    "page": 5,
+    "answerable": true
+  },
+  {
+    "question": "What does the PRA focus on in its supervisory approach?",
+    "ground_truth": "The PRA focuses on prudential supervision of banks and insurers, capital requirements, and stress testing.",
+    "source": "pra-2024-25.pdf",
+    "page": 1,
+    "answerable": true
+  },
+  {
+    "question": "What did the Bank of England say about geopolitical risks?",
+    "ground_truth": "Geopolitical developments could affect UK financial stability through multiple channels, including by increasing the likelihood of other vulnerabilities.",
+    "source": "financial-stability-report-june-2024.pdf",
+    "page": 25,
+    "answerable": true
+  },
+  {
+    "question": "What is the Affordability Test Recommendation?",
+    "ground_truth": "The FPC's Affordability Test Recommendation was withdrawn in 2022. The FPC observes this had limited effect on borrower resilience.",
+    "source": "financial-stability-report-december-2023.pdf",
+    "page": 59,
+    "answerable": true
+  },
+  {
+    "question": "What does the FPC say about non-bank financial institutions?",
+    "ground_truth": "The FPC monitors non-bank financial institutions as a source of systemic risk and vulnerability.",
+    "source": "financial-stability-report-july-2025.pdf",
+    "page": 5,
+    "answerable": true
+  },
+  {
+    "question": "What is the Bank of England's role in financial stability?",
+    "ground_truth": "The Bank of England's Financial Policy Committee seeks to ensure the UK financial system is prepared for and resilient to risks so it can absorb rather than amplify shocks.",
+    "source": "financial-stability-report-december-2025.pdf",
+    "page": 7,
+    "answerable": true
+  },
+  {
+    "question": "What does the monetary policy report say about inflation expectations?",
+    "ground_truth": "The monetary policy reports discuss inflation expectations and the MPC's target of 2% CPI inflation.",
+    "source": "monetary-policy-report-february-2025.pdf",
+    "page": 1,
+    "answerable": true
+  },
+  {
+    "question": "What is the FPC's view on trade fragmentation risks?",
+    "ground_truth": "Fragmentation of trade and financial markets is identified as a key source of elevated risk to UK financial stability in 2025.",
+    "source": "financial-stability-report-december-2025.pdf",
+    "page": 40,
+    "answerable": true
+  },
+  {
+    "question": "What does the Bank of England say about corporate debt vulnerabilities?",
+    "ground_truth": "UK and global corporate debt vulnerabilities are identified as key risks to financial stability.",
+    "source": "financial-stability-report-july-2025.pdf",
+    "page": 5,
+    "answerable": true
+  },
+  {
+    "question": "What is the FPC's mortgage market measure introduced in 2014?",
+    "ground_truth": "The FPC's mortgage market measures introduced in 2014 boosted the resilience of the UK household sector by helping to limit the build-up of household indebtedness.",
+    "source": "financial-stability-report-june-2024.pdf",
+    "page": 31,
+    "answerable": true
+  },
+  {
+    "question": "What does the PRA annual report say about stress testing?",
+    "ground_truth": "The PRA conducts stress testing of banks and insurers to assess resilience under adverse scenarios.",
+    "source": "pra-2024-25.pdf",
+    "page": 1,
+    "answerable": true
+  },
+  {
+    "question": "What is the Bank of England's view on housing supply?",
+    "ground_truth": "The FPC notes that increased credit availability alone has limited ability to address barriers to home ownership without corresponding increases in housing supply.",
+    "source": "financial-stability-report-december-2025.pdf",
+    "page": 64,
+    "answerable": true
+  },
+  {
+    "question": "What does the monetary policy report say about unemployment?",
+    "ground_truth": "The monetary policy reports discuss labour market conditions including unemployment as part of the MPC's assessment.",
+    "source": "monetary-policy-report-february-2025.pdf",
+    "page": 1,
+    "answerable": true
+  },
+  {
+    "question": "What is the weather forecast for London this week?",
+    "ground_truth": "This information is not available in the provided documents.",
+    "source": null,
+    "page": null,
+    "answerable": false
+  },
+  {
+    "question": "Who is the CEO of HSBC?",
+    "ground_truth": "This information is not available in the provided documents.",
+    "source": null,
+    "page": null,
+    "answerable": false
+  },
+  {
+    "question": "What is the inflation rate in France?",
+    "ground_truth": "This information is not available in the provided documents.",
+    "source": null,
+    "page": null,
+    "answerable": false
+  },
+  {
+    "question": "What is the share price of Barclays?",
+    "ground_truth": "This information is not available in the provided documents.",
+    "source": null,
+    "page": null,
+    "answerable": false
+  },
+  {
+    "question": "What is the population of the United Kingdom?",
+    "ground_truth": "This information is not available in the provided documents.",
+    "source": null,
+    "page": null,
+    "answerable": false
+  }
+]
