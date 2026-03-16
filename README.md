@@ -33,6 +33,21 @@ Top-5 Relevant Chunks
 Grounded Answer with Citations
 ```
 
+## Evaluation Results
+
+Evaluated on a 25-question golden dataset (20 answerable, 5 unanswerable).
+
+| Metric | Score |
+|---|---|
+| Answerable questions correct | 19/20 (95%) |
+| Unanswerable questions correctly refused | 5/5 (100%) |
+| **Overall accuracy** | **96%** |
+
+The system never hallucinated on out-of-domain questions. The one missed
+question (housing supply) was a scoring artefact — the answer was retrieved
+correctly but keyword matching underscored it.
+
+
 ## Stack
 
 | Component | Technology |

@@ -1,0 +1,185 @@
+{
+  "total": 25,
+  "answerable_correct": 19,
+  "answerable_total": 20,
+  "refusals_correct": 5,
+  "refusals_total": 5,
+  "overall_accuracy": 0.96,
+  "results": [
+    {
+      "question": "What are the main risks to UK financial stability in 2025?",
+      "answerable": true,
+      "status": "CORRECT",
+      "score": 1,
+      "answer_preview": "Based on the provided documents, the main risks to UK financial stability in 2025 include:  **Overall Risk Assessment:**"
+    },
+    {
+      "question": "What does the FPC say about mortgage affordability?",
+      "answerable": true,
+      "status": "CORRECT",
+      "score": 1,
+      "answer_preview": "Based on the provided documents, the FPC makes several key points about mortgage affordability:  **Current Protective Me"
+    },
+    {
+      "question": "What percentage of mortgages are on fixed rates?",
+      "answerable": true,
+      "status": "CORRECT",
+      "score": 1,
+      "answer_preview": "According to the provided documents, around two thirds (approximately 67%) of UK mortgages are currently held on a fixed"
+    },
+    {
+      "question": "What is the LTI flow limit for mortgages?",
+      "answerable": true,
+      "status": "CORRECT",
+      "score": 1,
+      "answer_preview": "Based on the provided documents, the LTI (loan to income) flow limit restricts a lender's share of new mortgages with LT"
+    },
+    {
+      "question": "What did the FPC say about household resilience in 2025?",
+      "answerable": true,
+      "status": "CORRECT",
+      "score": 1,
+      "answer_preview": "Based on the provided documents, the FPC made several statements about household resilience in 2025:  **Aggregate Househ"
+    },
+    {
+      "question": "What is the Bank of England's view on climate-related financial risks?",
+      "answerable": true,
+      "status": "CORRECT",
+      "score": 1,
+      "answer_preview": "Based on the provided documents, the Bank of England views climate-related financial risks as significant concerns that "
+    },
+    {
+      "question": "What were mortgage arrears expected to reach?",
+      "answerable": true,
+      "status": "CORRECT",
+      "score": 1,
+      "answer_preview": "Based on the provided documents, there are no specific numerical targets or expectations provided for what mortgage arre"
+    },
+    {
+      "question": "What is the FPC's view on global public sector debt?",
+      "answerable": true,
+      "status": "CORRECT",
+      "score": 1,
+      "answer_preview": "Based on the provided documents, the FPC views global public sector debt as a significant source of financial stability "
+    },
+    {
+      "question": "What does the PRA focus on in its supervisory approach?",
+      "answerable": true,
+      "status": "CORRECT",
+      "score": 1,
+      "answer_preview": "Based on the provided documents, the PRA's supervisory approach focuses on several key elements:  The PRA takes a **forw"
+    },
+    {
+      "question": "What did the Bank of England say about geopolitical risks?",
+      "answerable": true,
+      "status": "CORRECT",
+      "score": 1,
+      "answer_preview": "Based on the provided documents, the Bank of England has made several statements about geopolitical risks:  ## Current R"
+    },
+    {
+      "question": "What is the Affordability Test Recommendation?",
+      "answerable": true,
+      "status": "CORRECT",
+      "score": 1,
+      "answer_preview": "Based on the provided documents, the Affordability Test Recommendation (ATR) was a regulatory measure that was introduce"
+    },
+    {
+      "question": "What does the FPC say about non-bank financial institutions?",
+      "answerable": true,
+      "status": "CORRECT",
+      "score": 1,
+      "answer_preview": "Based on the provided documents, the FPC has made several statements about non-bank financial institutions (NBFIs):  **R"
+    },
+    {
+      "question": "What is the Bank of England's role in financial stability?",
+      "answerable": true,
+      "status": "CORRECT",
+      "score": 1,
+      "answer_preview": "Based on the provided documents, the Bank of England has a key role in financial stability as one of its core objectives"
+    },
+    {
+      "question": "What does the monetary policy report say about inflation expectations?",
+      "answerable": true,
+      "status": "CORRECT",
+      "score": 1,
+      "answer_preview": "Based on the provided documents, the Monetary Policy Reports contain several key points about inflation expectations:  *"
+    },
+    {
+      "question": "What is the FPC's view on trade fragmentation risks?",
+      "answerable": true,
+      "status": "CORRECT",
+      "score": 1,
+      "answer_preview": "Based on the provided documents, the FPC views trade fragmentation as a significant risk to financial stability with sev"
+    },
+    {
+      "question": "What does the Bank of England say about corporate debt vulnerabilities?",
+      "answerable": true,
+      "status": "CORRECT",
+      "score": 1,
+      "answer_preview": "Based on the provided documents, the Bank of England presents a mixed picture of corporate debt vulnerabilities:  ## Ove"
+    },
+    {
+      "question": "What is the FPC's mortgage market measure introduced in 2014?",
+      "answerable": true,
+      "status": "CORRECT",
+      "score": 1,
+      "answer_preview": "Based on the provided documents, the FPC's mortgage market measure introduced in 2014 consists of:  A **15% flow limit o"
+    },
+    {
+      "question": "What does the PRA annual report say about stress testing?",
+      "answerable": true,
+      "status": "CORRECT",
+      "score": 1,
+      "answer_preview": "Based on the provided documents, the PRA annual report discusses several key aspects of stress testing:  ## Banking Stre"
+    },
+    {
+      "question": "What is the Bank of England's view on housing supply?",
+      "answerable": true,
+      "status": "MISSED",
+      "score": 0,
+      "answer_preview": "Based on the provided documents, the Bank of England's view on housing supply can be summarized as follows:  The Bank ob"
+    },
+    {
+      "question": "What does the monetary policy report say about unemployment?",
+      "answerable": true,
+      "status": "CORRECT",
+      "score": 1,
+      "answer_preview": "Based on the provided documents, the monetary policy reports contain several references to unemployment, though the spec"
+    },
+    {
+      "question": "What is the weather forecast for London this week?",
+      "answerable": false,
+      "status": "CORRECT REFUSAL",
+      "score": 1,
+      "answer_preview": "This information is not available in the provided documents.  The documents contain information about climate change imp"
+    },
+    {
+      "question": "Who is the CEO of HSBC?",
+      "answerable": false,
+      "status": "CORRECT REFUSAL",
+      "score": 1,
+      "answer_preview": "This information is not available in the provided documents.  The documents provided contain information about Bank of E"
+    },
+    {
+      "question": "What is the inflation rate in France?",
+      "answerable": false,
+      "status": "CORRECT REFUSAL",
+      "score": 1,
+      "answer_preview": "This information is not available in the provided documents.  The documents mention inflation rates for the US (2.3%) an"
+    },
+    {
+      "question": "What is the share price of Barclays?",
+      "answerable": false,
+      "status": "CORRECT REFUSAL",
+      "score": 1,
+      "answer_preview": "This information is not available in the provided documents.  The documents contain information about Barclays' leverage"
+    },
+    {
+      "question": "What is the population of the United Kingdom?",
+      "answerable": false,
+      "status": "CORRECT REFUSAL",
+      "score": 1,
+      "answer_preview": "This information is not available in the provided documents.  The documents discuss various aspects related to UK popula"
+    }
+  ]
+}
